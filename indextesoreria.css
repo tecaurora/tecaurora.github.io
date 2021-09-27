@@ -1,0 +1,25 @@
+*{margin: 0;padding: 0;font-family:helvetica;font-size:18px; color: black;}
+#contenedor{width: 960px;margin:auto;}
+body{background:url('fondo.jpg'); }
+#encabezado{width: 960px;height:150px;padding-top:20px;background-color:#00a1e1;border-radius: 0px 0px 10px 10px;}
+#logo{float: left;}
+#logo img{float: left;width:50px:height:50px;margin-left: 20px;margin-top: 15px;}
+#logo p{float: left; margin-top: 17px;margin-left: 15px;font-weight: bold; }
+#menu{float: right; margin-top:25px;}
+#menu ul{margin-top: 10px;margin-bottom: 10px;height:45px;}
+#menu ul li{float:left;font-size: 14px;list-style: none;}
+#menu ul li a{text-decoration:none; color:white;text-align:center;font-size: 13px;display: block;padding:15px;background:#00a1e1;font-weight:bold;}
+#menu ul li a:hover, #menu ul li a.active{background:grey;border-radius: 5px;}
+#central{height:690px;margin-top: 50px;}
+.info{height: 200px;width: 960px;background-color: white;border-radius: 10px;margin-top: 20px;}
+.info img{border-radius: 10px 0px 0px 10px;width: 200px;float: left;}
+.info h3{width:720px;float: right;margin: 10px;margin-top: 20px;color: black;}
+.info p{width:720px;float: right;margin: 10px;color: grey;}
+#cental .info a{color: black;text-decoration:none;}
+#Registro{width: 960px;height:300px;background-color: white;border-radius:10px;}
+#Registro img{width:160px; float: left;border-radius: 10px 0px 0px 10px;height: 300px;}
+#Registro input{width:160px;border:1px solid #e5e5e5;display: block;margin-top: 7px;}
+#Registro form{width:800px;margin-left:150px;padding: 60px;}
+#Registro form a{text-decoration: none;color: grey;font-size: 14px;}
+#buttom{background-color: #00a1e1;border: 1px solid #00a1e1;color: white;height: 40px;border-radius: 2px;margin-bottom: 8px;}
+#footer, h4{width: 960px;height: 50px;margin-top: 15px;text-align: center;}
